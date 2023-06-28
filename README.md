@@ -11,4 +11,4 @@ On the left of your screen, open the file menu (file symbol). Right-click to upl
 
 Right-click your file and select "copy path". Plug it into the imread module of the second last code block, and run the last 2 code blocks.
 
-There seems to be some bias in the dataset with the numer 7 and 9 that affected the training process, so you shouldn't expect too much when inputting your handwritten 7 and 9.
+There seems to be some bias in the dataset with the numbers 7 and 9 that affected the training process, so you shouldn't expect too much when inputting your handwritten 7 and 9.
