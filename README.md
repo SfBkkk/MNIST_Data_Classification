@@ -1,4 +1,6 @@
 # MNIST_Data_Classification
+This code was written by Kien Le Tran, a high schooler, in June 2023.
+
 This Python notebook showcases a simple convolutional neural network (CNN) to classify handwritten numbers. Also includes a part where you can input your custom images.
 
 The Python notebook must be runned on Google Colab if you want to classify your custom images, because it has a library to access images uploaded to the Google Colab workspace.
